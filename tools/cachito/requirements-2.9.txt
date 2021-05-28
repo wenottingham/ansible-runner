@@ -107,4 +107,4 @@ urllib3==1.25.7
 websocket-client==0.57.0
 wheel==0.33.6
 xmltodict==0.12.0
-git+https://github.com/ansible/system-certifi.git@d42a296f3b3f8f1800c8c168146368a83a393ac3
+git+https://github.com/ansible/system-certifi.git@d42a296f3b3f8f1800c8c168146368a83a393ac3#egg=certifi
